@@ -1,4 +1,4 @@
-# Book-Shop-Management-02
+# Book-Shop-Management
 In this project we are gonna use the concepts of class inheritence and polymorphism, and this will be done based on the concepts learned so far in Core Java.
 
 Basic Format for input.
